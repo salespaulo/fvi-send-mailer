@@ -1,0 +1,7 @@
+{
+    "mailer": {
+        "transport": {
+            "mock": true
+        }
+    }
+}
